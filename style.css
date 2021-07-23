@@ -1,0 +1,69 @@
+body{
+	text-align: center;
+	background-color: #283149;
+}
+
+#title{
+	font-size: 5rem;
+	color: #DBEDF3;
+	text-shadow: 3px 0 #DA0463;
+}
+
+.set{
+	margin: 10px auto;
+	padding: 15px;
+}
+
+.drum{
+	outline: none;
+	border: 10px solid #404B69;
+	font-size: 5rem;
+	line-height: 2;
+	font-weight: 900;
+	color: #DA0463;
+	text-shadow: 3px 0 #DBEDF3;
+	border-radius: 15px;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin: 10px;
+    background-color: white;
+}
+
+.w{
+	background-image: url(https://images.unsplash.com/photo-1589997419427-daff54553276?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZHJ1bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60);
+}
+
+.a{
+    background-image: url(https://images.unsplash.com/photo-1553406624-739b610cf5c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+}
+
+.s{
+	background-image: url(https://images.unsplash.com/photo-1564389339976-2600774f2ec4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwxMDYyNzIyNHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60);
+}
+
+.d{
+	background-image: url(https://images.unsplash.com/photo-1557156105-c792d5220944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnw5MDMzMzI0fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+}
+
+.j{
+	background-image: url(https://images.unsplash.com/photo-1553406624-739b610cf5c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60);
+}
+
+.k{
+	background-image: url(https://images.unsplash.com/photo-1589200675131-ebdf48f92da7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGRydW18ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60);
+}
+
+.l{
+	background-image: url(https://images.unsplash.com/photo-1589997419427-daff54553276?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NnwxMDYyNzIyNHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60);
+}
+
+.set{
+	margin: 10% auto;
+}
+
+.pressed{
+	box-shadow: 0 3px 4px 0 #DBEDF3;
+	opacity: 0.6;
+}
